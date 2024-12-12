@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "Luna Landing your perfect landing page",
-    "description": "Landing page template",
-    "lang": "en",
+    "title": "巨浪引擎 - 澎湃动力 引领未来",
+    "description": "巨浪引擎，以强大的动力和创新的技术，如同汹涌的巨浪一般，在科技的海洋中破浪前行。它为您带来前所未有的体验，助力您在数字化时代中勇立潮头，开启无限可能。",
+    "lang": "zh-Hans",
     "charset": "UTF-8",
     "ldJson": {
-      "@context": "http://schema.org",
+      "@context": "https://www.billowengine.com",
       "@type": "Organization",
-      "name": "Luna Landing",
+      "name": "BillowEngine",
       "description": "Fictitious company that seeks to elevate and simplify the lives of web developers.",
       "url": "https://luna-landing-rust.vercel.app/",
       "logo": "./public/favicon.svg",
@@ -24,17 +24,18 @@
     }
   },
   "headerData": {
-    "logo": "Luna Landing",
+    "logo": "Billow Engine",
     "links": [
-      { "label": "About", "href": "#" },
-      { "label": "Services", "href": "#" },
-      { "label": "Prices", "href": "#" },
-      { "label": "FAQs", "href": "#" },
-      { "label": "Blog", "href": "#" }
+      { "label": "首页", "href: "/"},
+      { "label": "下载", "href": "/download" },
+      { "label": "服务", "href": "/service" },
+      { "label": "资源", "href": "/sources" },
+      { "label": "文档", "href": "/docs" },
+      { "label": "博客", "href": "/blog" }
     ]
   },
   "heroData": {
-    "title": "Open Your Mind to the Universe: Welcome to",
+    "title": "向宇宙敞开心扉：欢迎来到",
     "subTitle": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
     "primaryCta": "Github Repo",
     "secondaryCta": "See our pricing",
